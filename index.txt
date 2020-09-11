@@ -1,0 +1,8 @@
+<html>
+<title>welcome to linux</title>
+<head>about html</head>
+<body>
+<font name=bold size=14 color=green>this is session on htmll
+</font>
+</body>
+</html>
